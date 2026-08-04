@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music AI - Recomendaciones</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">Music IA</div>
+    <div class="topbar-links">
+      <a href="{{ url_for('welcome') }}">Inicio</a>
+      <a href="{{ url_for('connect_spotify') }}">Spotify</a>
+    </div>
+  </div>
+  <div class="container">
+    <div class="hero">
+      <div>
+        <span class="eyebrow">Proyecto de recomendación musical</span>
+        <h1>Music IA</h1>
+        <p>Elige tu género, estado de ánimo y artista favorito para recibir recomendaciones con una experiencia visual más clara, elegante y profesional.</p>
+        <div class="hero-actions">
+          {% if spotify_connected %}
+          <span class="button-secondary button-disabled">Spotify conectado</span>
+          {% elif spotify_configured %}
+          <a href="{{ url_for('connect_spotify') }}" class="button-secondary">Conectar Spotify</a>
+          {% else %}
+          <span class="button-secondary button-disabled">Configura Spotify primero</span>
+          {% endif %}
+        </div>
+        {% if spotify_connected %}
+        <div class="hero-note">
+          <p>Spotify conectado. Ahora puedes escuchar previews y crear una playlist con tus recomendaciones.</p>
+        </div>
+        {% endif %}
+      </div>
+      <div>
+        <div class="inset">
+          <strong>Consejo:</strong> Si deseas reproducir previews directamente dentro de la página, conecta tu cuenta de Spotify.
+          {% if not spotify_configured %}
+          <br />
+          <em>Falta SPOTIFY_CLIENT_ID o SPOTIFY_CLIENT_SECRET. Puedes dejarlos predeterminados en app.py o configurarlos en el entorno.</em>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div class="form-card">
+      <div class="section-title">
+        <h2>Personaliza tu experiencia</h2>
+        <p>Elige tus preferencias para recibir recomendaciones más cercanas a tu gusto.</p>
+      </div>
+      <form method="post" action="{{ url_for('index') }}">
+        <div class="form-grid">
+          <div class="field-card">
+            <label for="genero">Género</label>
+            <select id="genero" name="genero" required>
+              {% for genero in generos %}
+                <option value="{{ genero }}" {% if genero == selected_genero %}selected{% endif %}>{{ genero }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="field-card">
+            <label for="animo">Estado de ánimo</label>
+            <select id="animo" name="animo" required>
+              {% for opcion in animo %}
+                <option value="{{ opcion }}" {% if opcion == selected_animo %}selected{% endif %}>{{ opcion }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="field-card">
+            <label for="artista">Artista favorito</label>
+            <input
+              list="artistas-list"
+              id="artista"
+              name="artista"
+              value="{{ selected_artista }}"
+              placeholder="Escribe o elige un artista"
+              required
+            />
+            <datalist id="artistas-list">
+              {% for artista in artistas %}
+                <option value="{{ artista }}"></option>
+              {% endfor %}
+            </datalist>
+          </div>
+        </div>
+        <div class="actions-row">
+          <button type="submit" class="button-primary">Recomendar música</button>
+          <a href="{{ url_for('welcome') }}" class="button-tertiary">Volver al inicio</a>
+        </div>
+      </form>
+      {% if message %}
+      <div class="inset" style="margin-top: 18px;">
+        {{ message }}
+      </div>
+      {% endif %}
+    </div>
+
+    {% if recommendations %}
+    <div class="results-card">
+      <h2>Recomendaciones</h2>
+      <div class="results-summary">
+        <span class="result-pill">Mostrando {{ recommendations|length }} recomendaciones</span>
+        <span class="result-pill">Género: {{ selected_genero }}</span>
+        <span class="result-pill">Ánimo: {{ selected_animo }}</span>
+        <span class="result-pill">Artista: {{ selected_artista }}</span>
+      </div>
+      {% if not spotify_connected %}
+      <div class="inset" style="margin-bottom: 18px;">
+        Conecta Spotify para reproducir previews directamente dentro de la página.
+      </div>
+      {% endif %}
+      {% if spotify_connected %}
+      <div class="playlist-action" style="margin-bottom: 18px;">
+        <a href="{{ url_for('create_playlist') }}" class="button-tertiary">Crear playlist en Spotify</a>
+      </div>
+      {% endif %}
+      <div class="card-grid">
+        {% for rec in recommendations %}
+        <div class="track-card">
+          <div class="cover-wrap">
+            <img src="{{ rec.image_url or url_for('static', filename='cover-placeholder.svg') }}" alt="Portada de {{ rec.title }}" class="cover-art" />
+          </div>
+          <div class="track-info">
+            <h3>{{ rec.title }}</h3>
+            <p>{{ rec.artist }}</p>
+          </div>
+          <div class="track-actions">
+            {% if rec.preview_url %}
+            <audio id="audio-player-{{ loop.index }}" controls preload="none" class="audio-player">
+              <source src="{{ rec.preview_url }}" type="audio/mpeg" />
+            </audio>
+            <a href="{{ rec.search_url }}" target="_blank" class="button-secondary">Abrir en Spotify</a>
+            <button type="button" class="button-primary" onclick="playTrack('audio-player-{{ loop.index }}')">Escuchar preview</button>
+            {% else %}
+            <p class="no-preview-text">Preview no disponible para esta canción.</p>
+            <a href="{{ rec.search_url }}" target="_blank" class="button-secondary">Buscar en Spotify</a>
+            <span class="no-preview-badge">Sin reproducción disponible</span>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    <div class="footer">
+      <p>Aplicación local desarrollada con Flask y Python para la recomendación musical.</p>
+      <p class="footer-url">http://127.0.0.1:8888/</p>
+    </div>
+  </div>
+  <script>
+    function playTrack(playerId) {
+      const player = document.getElementById(playerId);
+      if (!player) return;
+      if (player.paused) {
+        player.play();
+      } else {
+        player.pause();
+      }
+    }
+  </script>
+</body>
+</html>

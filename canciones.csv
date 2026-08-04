@@ -1,0 +1,479 @@
+cancion,artista,genero,animo,energia
+Cruel Summer,Taylor Swift,Pop,Triste,Baja
+Anti-Hero,Taylor Swift,Pop,Triste,Alta
+Lover,Taylor Swift,Pop,Feliz,Alta
+Shake It Off,Taylor Swift,Pop,Relajado,Baja
+Blank Space,Taylor Swift,Pop,Triste,Baja
+Style,Taylor Swift,Pop,Triste,Media
+Love Story,Taylor Swift,Pop,Enamorado,Alta
+Flowers,Miley Cyrus,Pop,Triste,Baja
+Wrecking Ball,Miley Cyrus,Pop,Enamorado,Media
+Party in the U.S.A.,Miley Cyrus,Pop,Enamorado,Media
+Espresso,Sabrina Carpenter,Pop,Enamorado,Baja
+Please Please Please,Sabrina Carpenter,Pop,Feliz,Alta
+Taste,Sabrina Carpenter,Pop,Enamorado,Media
+"Good Luck, Babe!",Chappell Roan,Pop,Enamorado,Media
+Pink Pony Club,Chappell Roan,Pop,Enamorado,Alta
+Birds of a Feather,Billie Eilish,Pop,Triste,Baja
+Bad Guy,Billie Eilish,Pop,Motivado,Media
+Ocean Eyes,Billie Eilish,Pop,Motivado,Alta
+Happier Than Ever,Billie Eilish,Pop,Relajado,Media
+Perfect,Ed Sheeran,Pop,Motivado,Alta
+Shape of You,Ed Sheeran,Pop,Relajado,Alta
+Photograph,Ed Sheeran,Pop,Feliz,Media
+Thinking Out Loud,Ed Sheeran,Pop,Feliz,Media
+Castle on the Hill,Ed Sheeran,Pop,Triste,Baja
+Watermelon Sugar,Harry Styles,Pop,Relajado,Alta
+As It Was,Harry Styles,Pop,Motivado,Baja
+Adore You,Harry Styles,Pop,Feliz,Media
+Sign of the Times,Harry Styles,Pop,Relajado,Baja
+Peaches,Justin Bieber,Pop,Enamorado,Baja
+Sorry,Justin Bieber,Pop,Relajado,Media
+Love Yourself,Justin Bieber,Pop,Feliz,Baja
+Stay,Justin Bieber,Pop,Motivado,Alta
+Ghost,Justin Bieber,Pop,Enamorado,Media
+Levitating,Dua Lipa,Pop,Enamorado,Media
+Don't Start Now,Dua Lipa,Pop,Motivado,Media
+New Rules,Dua Lipa,Pop,Relajado,Media
+One Kiss,Dua Lipa,Pop,Relajado,Alta
+Physical,Dua Lipa,Pop,Feliz,Alta
+Houdini,Dua Lipa,Pop,Feliz,Media
+Blinding Lights,The Weeknd,Pop,Enamorado,Alta
+Save Your Tears,The Weeknd,Pop,Triste,Media
+Starboy,The Weeknd,Pop,Feliz,Alta
+Can't Feel My Face,The Weeknd,Pop,Triste,Alta
+Die For You,The Weeknd,Pop,Feliz,Media
+Uptown Funk,Bruno Mars,Pop,Relajado,Alta
+24K Magic,Bruno Mars,Pop,Enamorado,Media
+Just The Way You Are,Bruno Mars,Pop,Triste,Baja
+That's What I Like,Bruno Mars,Pop,Relajado,Baja
+Die With A Smile,Bruno Mars y Lady Gaga,Pop,Feliz,Alta
+Shallow,Lady Gaga,Pop,Motivado,Baja
+Poker Face,Lady Gaga,Pop,Triste,Media
+Bad Romance,Lady Gaga,Pop,Motivado,Alta
+Rain On Me,Lady Gaga y Ariana Grande,Pop,Triste,Media
+7 Rings,Ariana Grande,Pop,Enamorado,Alta
+"Thank U, Next",Ariana Grande,Pop,Motivado,Baja
+Positions,Ariana Grande,Pop,Motivado,Baja
+Into You,Ariana Grande,Pop,Relajado,Baja
+God Is A Woman,Ariana Grande,Pop,Triste,Media
+Roar,Katy Perry,Pop,Triste,Media
+Firework,Katy Perry,Pop,Triste,Baja
+Dark Horse,Katy Perry,Pop,Enamorado,Baja
+Teenage Dream,Katy Perry,Pop,Triste,Media
+Chandelier,Sia,Pop,Triste,Media
+Cheap Thrills,Sia,Pop,Feliz,Baja
+Sunflower,Post Malone y Swae Lee,Pop,Relajado,Baja
+Havana,Camila Cabello,Pop,Triste,Media
+Senorita,Shawn Mendes y Camila Cabello,Pop,Relajado,Alta
+Treat You Better,Shawn Mendes,Pop,Enamorado,Baja
+Stitches,Shawn Mendes,Pop,Triste,Media
+Love On The Brain,Rihanna,Pop,Feliz,Baja
+Diamonds,Rihanna,Pop,Motivado,Alta
+Umbrella,Rihanna,Pop,Enamorado,Media
+Work,Rihanna,Pop,Enamorado,Alta
+Can't Stop The Feeling!,Justin Timberlake,Pop,Relajado,Alta
+Cry Me a River,Justin Timberlake,Pop,Enamorado,Media
+Rolling in the Deep,Adele,Pop,Relajado,Baja
+Someone Like You,Adele,Pop,Motivado,Media
+Hello,Adele,Pop,Enamorado,Alta
+Easy On Me,Adele,Pop,Triste,Media
+Halo,Beyonce,Pop,Enamorado,Baja
+Single Ladies,Beyonce,Pop,Relajado,Media
+Cuff It,Beyonce,Pop,Triste,Alta
+Counting Stars,OneRepublic,Pop,Feliz,Baja
+Apologize,OneRepublic,Pop,Enamorado,Media
+Secrets,OneRepublic,Pop,Feliz,Alta
+Locked Out of Heaven,Bruno Mars,Pop,Relajado,Alta
+Talking to the Moon,Bruno Mars,Pop,Enamorado,Alta
+Sweater Weather,The Neighbourhood,Rock,Feliz,Alta
+Numb,Linkin Park,Rock,Motivado,Alta
+In the End,Linkin Park,Rock,Relajado,Alta
+Faint,Linkin Park,Rock,Relajado,Media
+What I've Done,Linkin Park,Rock,Enamorado,Alta
+Mr. Brightside,The Killers,Rock,Motivado,Alta
+Somebody Told Me,The Killers,Rock,Feliz,Media
+Human,The Killers,Rock,Feliz,Baja
+When You Were Young,The Killers,Rock,Relajado,Baja
+Bohemian Rhapsody,Queen,Rock,Relajado,Baja
+We Will Rock You,Queen,Rock,Motivado,Media
+Don't Stop Me Now,Queen,Rock,Enamorado,Media
+Somebody To Love,Queen,Rock,Feliz,Media
+Take Me To Church,Hozier,Rock,Feliz,Alta
+Zombie,The Cranberries,Rock,Relajado,Baja
+Linger,The Cranberries,Rock,Feliz,Baja
+Smells Like Teen Spirit,Nirvana,Rock,Motivado,Alta
+Come As You Are,Nirvana,Rock,Relajado,Media
+In Bloom,Nirvana,Rock,Relajado,Alta
+Heart-Shaped Box,Nirvana,Rock,Triste,Alta
+Radioactive,Imagine Dragons,Rock,Feliz,Baja
+Believer,Imagine Dragons,Rock,Triste,Alta
+Thunder,Imagine Dragons,Rock,Feliz,Media
+Demons,Imagine Dragons,Rock,Feliz,Media
+Whatever It Takes,Imagine Dragons,Rock,Motivado,Baja
+Africa,Toto,Rock,Enamorado,Alta
+Uptown Girl,Billy Joel,Rock,Motivado,Alta
+Livin' On A Prayer,Bon Jovi,Rock,Enamorado,Media
+It's My Life,Bon Jovi,Rock,Feliz,Alta
+Sweet Child O' Mine,Guns N' Roses,Rock,Motivado,Media
+November Rain,Guns N' Roses,Rock,Triste,Alta
+Paradise City,Guns N' Roses,Rock,Triste,Media
+Enter Sandman,Metallica,Rock,Relajado,Media
+Nothing Else Matters,Metallica,Rock,Motivado,Media
+Master of Puppets,Metallica,Rock,Triste,Media
+Back In Black,AC/DC,Rock,Triste,Media
+Highway to Hell,AC/DC,Rock,Relajado,Media
+Thunderstruck,AC/DC,Rock,Motivado,Baja
+Californication,Red Hot Chili Peppers,Rock,Feliz,Baja
+Under The Bridge,Red Hot Chili Peppers,Rock,Triste,Alta
+Can't Stop,Red Hot Chili Peppers,Rock,Feliz,Media
+Otherside,Red Hot Chili Peppers,Rock,Motivado,Media
+Feel Good Inc.,Gorillaz,Rock,Motivado,Media
+Clint Eastwood,Gorillaz,Rock,Relajado,Media
+Seven Nation Army,The White Stripes,Rock,Feliz,Alta
+Boulevard of Broken Dreams,Green Day,Rock,Feliz,Alta
+American Idiot,Green Day,Rock,Triste,Media
+Basket Case,Green Day,Rock,Enamorado,Baja
+Wonderwall,Oasis,Rock,Relajado,Baja
+Don't Look Back In Anger,Oasis,Rock,Relajado,Baja
+Champagne Supernova,Oasis,Rock,Enamorado,Media
+Creep,Radiohead,Rock,Enamorado,Media
+Karma Police,Radiohead,Rock,Relajado,Media
+No Surprises,Radiohead,Rock,Motivado,Alta
+Every Breath You Take,The Police,Rock,Enamorado,Alta
+Roxanne,The Police,Rock,Enamorado,Media
+Message In A Bottle,The Police,Rock,Motivado,Baja
+Losing My Religion,R.E.M.,Rock,Motivado,Media
+Hotel California,Eagles,Rock,Enamorado,Baja
+Take It Easy,Eagles,Rock,Enamorado,Media
+Sultans Of Swing,Dire Straits,Rock,Feliz,Alta
+Money For Nothing,Dire Straits,Rock,Feliz,Alta
+Learn To Fly,Foo Fighters,Rock,Enamorado,Alta
+Everlong,Foo Fighters,Rock,Enamorado,Media
+The Pretender,Foo Fighters,Rock,Enamorado,Media
+My Hero,Foo Fighters,Rock,Enamorado,Alta
+Are You Gonna Be My Girl,Jet,Rock,Relajado,Media
+No One Knows,Queens of the Stone Age,Rock,Feliz,Baja
+Black,Pearl Jam,Rock,Motivado,Media
+Alive,Pearl Jam,Rock,Relajado,Baja
+Even Flow,Pearl Jam,Rock,Feliz,Alta
+Under Pressure,Queen y David Bowie,Rock,Triste,Media
+Killer Queen,Queen,Rock,Feliz,Baja
+Kashmir,Led Zeppelin,Rock,Feliz,Media
+Stairway to Heaven,Led Zeppelin,Rock,Motivado,Baja
+Whole Lotta Love,Led Zeppelin,Rock,Relajado,Media
+Immigrant Song,Led Zeppelin,Rock,Relajado,Alta
+Paint It Black,The Rolling Stones,Rock,Enamorado,Media
+Sympathy for the Devil,The Rolling Stones,Rock,Triste,Media
+Start Me Up,The Rolling Stones,Rock,Motivado,Media
+Should I Stay or Should I Go,The Clash,Rock,Feliz,Media
+Basket Case Reprise,Green Day,Rock,Enamorado,Alta
+The Scientist,Coldplay,Rock,Relajado,Alta
+Yellow,Coldplay,Rock,Triste,Alta
+Viva La Vida,Coldplay,Rock,Motivado,Alta
+Fix You,Coldplay,Rock,Relajado,Alta
+Clocks,Coldplay,Rock,Feliz,Alta
+Ojitos Lindos,Bad Bunny,Reggaeton,Feliz,Media
+Titi Me Pregunto,Bad Bunny,Reggaeton,Relajado,Alta
+Monaco,Bad Bunny,Reggaeton,Motivado,Media
+Un Verano Sin Ti,Bad Bunny,Reggaeton,Feliz,Media
+Yonaguni,Bad Bunny,Reggaeton,Triste,Alta
+La Cancion,Bad Bunny,Reggaeton,Relajado,Media
+Me Porto Bonito,Bad Bunny,Reggaeton,Triste,Alta
+Diles,Bad Bunny,Reggaeton,Triste,Alta
+Callaita,Bad Bunny,Reggaeton,Relajado,Alta
+Vete,Bad Bunny,Reggaeton,Enamorado,Alta
+Safaera,Bad Bunny,Reggaeton,Feliz,Media
+Neverita,Bad Bunny,Reggaeton,Enamorado,Media
+Efecto,Bad Bunny,Reggaeton,Feliz,Alta
+Moscow Mule,Bad Bunny,Reggaeton,Feliz,Media
+Dakiti,Bad Bunny y Jhay Cortez,Reggaeton,Relajado,Alta
+TQG,Karol G,Reggaeton,Relajado,Media
+Provenza,Karol G,Reggaeton,Feliz,Media
+Mientras Me Curo Del Cora,Karol G,Reggaeton,Relajado,Media
+X Si Volvemos,Karol G,Reggaeton,Triste,Media
+Bichota,Karol G,Reggaeton,Feliz,Alta
+Tusa,Karol G,Reggaeton,Motivado,Media
+"Ay, Dios Mio!",Karol G,Reggaeton,Relajado,Media
+Amargura,Karol G,Reggaeton,Enamorado,Media
+Vampiros,Karol G,Reggaeton,Enamorado,Media
+La Tirana,Karol G,Reggaeton,Relajado,Alta
+Despacito,Luis Fonsi,Reggaeton,Triste,Media
+Vaina Loca,Ozuna,Reggaeton,Triste,Media
+Taki Taki,DJ Snake,Reggaeton,Motivado,Alta
+Con Calma,Daddy Yankee,Reggaeton,Relajado,Media
+Gasolina,Daddy Yankee,Reggaeton,Enamorado,Media
+Limbo,Daddy Yankee,Reggaeton,Feliz,Media
+La Gozadera,Gente De Zona,Reggaeton,Relajado,Media
+Danza Kuduro,Don Omar,Reggaeton,Motivado,Alta
+Propuesta Indecente,Romeo Santos,Reggaeton,Motivado,Media
+Felices los 4,Maluma,Reggaeton,Triste,Media
+Hawai,Maluma,Reggaeton,Motivado,Alta
+Corazon,Maluma,Reggaeton,Enamorado,Media
+Chantaje,Shakira,Reggaeton,Motivado,Alta
+La Bicicleta,Shakira y Carlos Vives,Reggaeton,Triste,Media
+Waka Waka,Shakira,Reggaeton,Motivado,Media
+Loba,Shakira,Reggaeton,Relajado,Media
+Adios,Ricky Martin,Reggaeton,Motivado,Media
+Vivir Mi Vida,Marc Anthony,Reggaeton,Feliz,Media
+Ginza,J Balvin,Reggaeton,Triste,Alta
+Mi Gente,J Balvin,Reggaeton,Motivado,Media
+Ay Vamos,J Balvin,Reggaeton,Motivado,Media
+Reggaeton Lento,CNCO,Reggaeton,Triste,Alta
+Bailando,Enrique Iglesias,Reggaeton,Motivado,Media
+El Perdon,Nicky Jam,Reggaeton,Enamorado,Alta
+Travesuras,Nicky Jam,Reggaeton,Relajado,Media
+Hasta El Amanecer,Nicky Jam,Reggaeton,Enamorado,Alta
+Otro Trago,Sech,Reggaeton,Relajado,Media
+La Jeepeta,Nio Garcia,Reggaeton,Enamorado,Alta
+China,Anuel AA,Reggaeton,Triste,Media
+Secreto,Anuel AA,Reggaeton,Triste,Media
+Sola,Anuel AA,Reggaeton,Enamorado,Media
+Ella Quiere Beber,Anuel AA,Reggaeton,Feliz,Media
+Explicale,Anuel AA,Reggaeton,Motivado,Media
+Krippy Kush,Farruko,Reggaeton,Motivado,Media
+Pepas,Farruko,Reggaeton,Triste,Media
+Obsesion,Aventura,Reggaeton,Feliz,Media
+La Modelo,Ozuna,Reggaeton,Enamorado,Media
+Se Preparo,Ozuna,Reggaeton,Motivado,Media
+Comentale,Ozuna,Reggaeton,Enamorado,Alta
+Baila Baila Baila,Ozuna,Reggaeton,Motivado,Media
+Culpables,Ozuna y Karol G,Reggaeton,Motivado,Media
+Robarte Un Beso,Carlos Vives,Reggaeton,Relajado,Media
+No Es Justo,J Balvin,Reggaeton,Enamorado,Media
+6 AM,J Balvin,Reggaeton,Relajado,Media
+Perro Fiel,Shakira y Nicky Jam,Reggaeton,Feliz,Media
+Subeme La Radio,Enrique Iglesias,Reggaeton,Motivado,Media
+Duele El Corazon,Enrique Iglesias,Reggaeton,Triste,Alta
+El Bano,Enrique Iglesias,Reggaeton,Enamorado,Media
+Location,"Karol G, Anuel AA y J Balvin",Reggaeton,Motivado,Media
+Vagabundo,Anuel AA,Reggaeton,Motivado,Media
+Ensename a Bailar,Ozuna,Reggaeton,Relajado,Media
+Adictiva,Daddy Yankee y Anuel AA,Reggaeton,Triste,Media
+Con Altura,Rosalia y J Balvin,Reggaeton,Feliz,Media
+Downtown,Anitta y J Balvin,Reggaeton,Motivado,Media
+Envolver,Anitta,Reggaeton,Motivado,Media
+Girl Like Me,Black Eyed Peas y Shakira,Reggaeton,Feliz,Alta
+Titanium,David Guetta con Sia,Electronica,Motivado,Media
+Wake Me Up,Avicii,Electronica,Relajado,Media
+Levels,Avicii,Electronica,Enamorado,Media
+Hey Brother,Avicii,Electronica,Relajado,Alta
+The Nights,Avicii,Electronica,Feliz,Media
+Animals,Martin Garrix,Electronica,Feliz,Media
+In The Name Of Love,Martin Garrix,Electronica,Enamorado,Media
+Scared To Be Lonely,Martin Garrix,Electronica,Triste,Media
+Tsunami,DVBBS y Borgeous,Electronica,Feliz,Media
+Silhouettes,Avicii,Electronica,Relajado,Alta
+Clarity,Zedd,Electronica,Feliz,Media
+Stay,Zedd y Alessia Cara,Electronica,Motivado,Media
+The Middle,"Zedd, Maren Morris y Grey",Electronica,Enamorado,Media
+Faded,Alan Walker,Electronica,Motivado,Media
+Alone,Alan Walker,Electronica,Triste,Media
+Darkside,Alan Walker,Electronica,Motivado,Media
+Lily,Alan Walker,Electronica,Relajado,Alta
+Don't You Worry Child,Swedish House Mafia,Electronica,Motivado,Media
+Save The World,Swedish House Mafia,Electronica,Relajado,Media
+One,Swedish House Mafia,Electronica,Relajado,Alta
+Ghosts 'n' Stuff,Deadmau5,Electronica,Feliz,Alta
+Strobe,Deadmau5,Electronica,Relajado,Media
+Sandstorm,Darude,Electronica,Feliz,Alta
+Language,Porter Robinson,Electronica,Relajado,Alta
+Shelter,Porter Robinson y Madeon,Electronica,Motivado,Media
+Cinema,Benny Benassi,Electronica,Triste,Media
+Satisfaction,Benny Benassi,Electronica,Feliz,Alta
+Around The World,Daft Punk,Electronica,Relajado,Media
+One More Time,Daft Punk,Electronica,Motivado,Media
+Get Lucky,Daft Punk,Electronica,Feliz,Alta
+Harder Better Faster Stronger,Daft Punk,Electronica,Enamorado,Alta
+Digital Love,Daft Punk,Electronica,Motivado,Alta
+Instant Crush,Daft Punk,Electronica,Motivado,Media
+Losing It,FISHER,Electronica,Relajado,Alta
+Freaks,Timmy Trumpet,Electronica,Enamorado,Media
+This Girl,Kungs vs Cookin' On 3 Burners,Electronica,Feliz,Media
+Feel So Close,Calvin Harris,Electronica,Relajado,Media
+Summer,Calvin Harris,Electronica,Triste,Media
+This Is What You Came For,Calvin Harris y Rihanna,Electronica,Relajado,Media
+One Kiss,Calvin Harris y Dua Lipa,Electronica,Feliz,Media
+Outside,Calvin Harris y Ellie Goulding,Electronica,Triste,Media
+My Head Is A Jungle,Wankelmut y Emma Louise,Electronica,Motivado,Media
+Sweet Disposition,The Temper Trap,Electronica,Relajado,Media
+Midnight City,M83,Electronica,Relajado,Alta
+Stay The Night,Zedd con Hayley Williams,Electronica,Feliz,Alta
+I Could Be The One,Avicii vs Nicky Romero,Electronica,Enamorado,Media
+Hey Now,London Grammar,Electronica,Triste,Media
+Breathe,Telepopmusik,Electronica,Relajado,Media
+Reload,Sebastian Ingrosso y Tommy Trash,Electronica,Relajado,Media
+Adagio For Strings,Tiesto,Electronica,Triste,Media
+Red Lights,Tiesto,Electronica,Relajado,Alta
+Traffic,Tiesto,Electronica,Relajado,Alta
+Jackie Chan,Tiesto y Dzeko,Electronica,Enamorado,Media
+The Business,Tiesto,Electronica,Enamorado,Media
+Silence,Marshmello con Khalid,Electronica,Triste,Media
+Happier,Marshmello con Bastille,Electronica,Relajado,Media
+Friends,Marshmello y Anne-Marie,Electronica,Enamorado,Alta
+Wolves,Marshmello y Selena Gomez,Electronica,Motivado,Media
+Symphony,Clean Bandit con Zara Larsson,Electronica,Enamorado,Media
+Rather Be,Clean Bandit,Electronica,Triste,Media
+Rockabye,Clean Bandit,Electronica,Enamorado,Alta
+Solo,Clean Bandit y Demi Lovato,Electronica,Relajado,Alta
+Lean On,Major Lazer,Electronica,Enamorado,Alta
+Cold Water,Major Lazer con Justin Bieber,Electronica,Motivado,Alta
+Light It Up,Major Lazer,Electronica,Relajado,Media
+Get Free,Major Lazer,Electronica,Enamorado,Media
+Bailar,Deorro,Electronica,Feliz,Media
+Five More Hours,Deorro y Chris Brown,Electronica,Relajado,Media
+Turn Down for What,DJ Snake y Lil Jon,Electronica,Relajado,Alta
+Let Me Love You,DJ Snake con Justin Bieber,Electronica,Enamorado,Alta
+Magenta Riddim,DJ Snake,Electronica,Triste,Media
+Middle,DJ Snake con Bipolar Sunshine,Electronica,Feliz,Media
+Powerful,Major Lazer con Ellie Goulding,Electronica,Triste,Alta
+Ritual,"Tiesto, Jonas Blue y Rita Ora",Electronica,Relajado,Media
+Ella Baila Sola,Peso Pluma,Regional Mexicano,Triste,Alta
+La Bebe,Peso Pluma,Regional Mexicano,Enamorado,Baja
+PRC,Peso Pluma,Regional Mexicano,Relajado,Baja
+Qlona,Peso Pluma,Regional Mexicano,Triste,Media
+El Azul,Peso Pluma,Regional Mexicano,Triste,Baja
+Tulum,Peso Pluma,Regional Mexicano,Enamorado,Media
+Rosa Pastel,Peso Pluma,Regional Mexicano,Relajado,Baja
+Como Popi,Peso Pluma,Regional Mexicano,Triste,Alta
+AMG,Peso Pluma y Natanael Cano,Regional Mexicano,Relajado,Media
+Bipolar,Peso Pluma,Regional Mexicano,Enamorado,Alta
+Siempre Pendientes,Peso Pluma,Regional Mexicano,Triste,Media
+La Bikina,Vicente Fernandez,Regional Mexicano,Enamorado,Media
+El Rey,Vicente Fernandez,Regional Mexicano,Enamorado,Media
+Volver Volver,Vicente Fernandez,Regional Mexicano,Triste,Alta
+Por Tu Maldito Amor,Vicente Fernandez,Regional Mexicano,Enamorado,Media
+Aca Entre Nos,Vicente Fernandez,Regional Mexicano,Relajado,Alta
+Un x100to,Grupo Frontera,Regional Mexicano,Triste,Media
+Que Vuelvas,Carin Leon y Grupo Frontera,Regional Mexicano,Triste,Media
+No Se Va,Grupo Frontera,Regional Mexicano,Triste,Baja
+Bebe Dame,Grupo Frontera,Regional Mexicano,Motivado,Media
+El Comienzo,Grupo Frontera,Regional Mexicano,Feliz,Media
+Corazon De Piedra,Grupo Frontera,Regional Mexicano,Motivado,Media
+Cielo Rojo,Fuerza Regida,Regional Mexicano,Relajado,Media
+TQM,Fuerza Regida,Regional Mexicano,Relajado,Media
+Sabor Fresa,Fuerza Regida,Regional Mexicano,Relajado,Media
+Ch y la Pizza,Fuerza Regida,Regional Mexicano,Feliz,Alta
+Igualito a Mi Apa,Fuerza Regida y Peso Pluma,Regional Mexicano,Motivado,Media
+El Toxico,Fuerza Regida,Regional Mexicano,Relajado,Alta
+Que Onda,Fuerza Regida,Regional Mexicano,Enamorado,Media
+Corrido de Juanito,Natanael Cano,Regional Mexicano,Relajado,Baja
+AM,Natanael Cano,Regional Mexicano,Motivado,Media
+Percas,Natanael Cano,Regional Mexicano,Feliz,Media
+Aventura,Natanael Cano,Regional Mexicano,Enamorado,Alta
+Soy El Unico,Natanael Cano,Regional Mexicano,Relajado,Baja
+Amor Tumbado,Natanael Cano,Regional Mexicano,Motivado,Media
+Cuerno Azulado,Natanael Cano,Regional Mexicano,Motivado,Media
+El Amor De Su Vida,Natanael Cano y Peso Pluma,Regional Mexicano,Triste,Media
+No Le Hace,Junior H,Regional Mexicano,Enamorado,Media
+Ya Superame,Junior H,Regional Mexicano,Motivado,Media
+Fragil,Junior H,Regional Mexicano,Feliz,Media
+Y Lo Perdi,Junior H,Regional Mexicano,Motivado,Media
+El Servidor,Junior H,Regional Mexicano,Motivado,Media
+Fin De Semana,Junior H,Regional Mexicano,Feliz,Alta
+Alterado,Banda MS,Regional Mexicano,Feliz,Baja
+El Color De Tus Ojos,Banda MS,Regional Mexicano,Triste,Alta
+Que Te Perdone Dios,Banda MS,Regional Mexicano,Triste,Alta
+Ya Lo Se,Banda MS,Regional Mexicano,Motivado,Baja
+Tu Postura,Banda MS,Regional Mexicano,Motivado,Baja
+El Muchacho De Los Ojos Tristes,Banda MS,Regional Mexicano,Triste,Media
+Como Duele,Banda MS,Regional Mexicano,Motivado,Baja
+Amor Genuino,Grupo Firme,Regional Mexicano,Triste,Baja
+En Tu Perra Vida,Grupo Firme,Regional Mexicano,Motivado,Alta
+Ando Bien Pedo,Grupo Firme,Regional Mexicano,Relajado,Media
+El Tiktoker,Grupo Firme,Regional Mexicano,Motivado,Alta
+Un Millon De Rosas,Grupo Firme,Regional Mexicano,Motivado,Baja
+Alerta Vecinal,Grupo Firme,Regional Mexicano,Relajado,Alta
+Cintura,Grupo Firme,Regional Mexicano,Feliz,Alta
+La Chona,Banda El Recodo,Regional Mexicano,Triste,Media
+El Sinaloense,Banda El Recodo,Regional Mexicano,Feliz,Media
+Yo Si Te Creo,Banda El Recodo,Regional Mexicano,Relajado,Baja
+Perdoname,Banda El Recodo,Regional Mexicano,Relajado,Baja
+Enamorado De Ti,Banda Los Recoditos,Regional Mexicano,Feliz,Alta
+Amor Del Bueno,Los Tigres Del Norte,Regional Mexicano,Relajado,Baja
+La Puerta Negra,Los Tigres Del Norte,Regional Mexicano,Motivado,Baja
+Contrabando y Traicion,Los Tigres Del Norte,Regional Mexicano,Relajado,Media
+Jefe De Jefes,Los Tigres Del Norte,Regional Mexicano,Relajado,Media
+La Reina Del Sur,Los Tigres Del Norte,Regional Mexicano,Motivado,Baja
+Enamorate,Xavi,Regional Mexicano,Triste,Alta
+La Diabla,Xavi,Regional Mexicano,Triste,Alta
+La Culichi Que Todos Queria,Xavi,Regional Mexicano,Motivado,Alta
+Se Fue La Luz,Grupo Firme,Regional Mexicano,Feliz,Alta
+El Azul Reprise,Peso Pluma,Regional Mexicano,Triste,Baja
+God's Plan,Drake,Rap,Motivado,Alta
+Sicko Mode,Travis Scott,Rap,Motivado,Media
+HUMBLE.,Kendrick Lamar,Rap,Triste,Media
+Lucid Dreams,Juice WRLD,Rap,Relajado,Media
+Circles,Post Malone,Rap,Relajado,Alta
+Sunflower,Post Malone,Rap,Feliz,Media
+Rockstar,Post Malone,Rap,Relajado,Media
+In My Feelings,Drake,Rap,Feliz,Media
+One Dance,Drake,Rap,Enamorado,Alta
+Hotline Bling,Drake,Rap,Triste,Media
+Started From The Bottom,Drake,Rap,Enamorado,Alta
+Nonstop,Drake,Rap,Relajado,Alta
+Money In The Grave,Drake,Rap,Motivado,Media
+Life Is Good,Future y Drake,Rap,Enamorado,Media
+Rap God,Eminem,Rap,Relajado,Media
+Lose Yourself,Eminem,Rap,Triste,Alta
+Not Afraid,Eminem,Rap,Motivado,Media
+Love The Way You Lie,Eminem,Rap,Triste,Media
+Without Me,Eminem,Rap,Triste,Media
+The Real Slim Shady,Eminem,Rap,Triste,Media
+Stan,Eminem,Rap,Triste,Media
+Mockingbird,Eminem,Rap,Feliz,Media
+Alright,Kendrick Lamar,Rap,Enamorado,Alta
+DNA.,Kendrick Lamar,Rap,Enamorado,Media
+Money Trees,Kendrick Lamar,Rap,Feliz,Media
+Swimming Pools,Kendrick Lamar,Rap,Enamorado,Alta
+King Kunta,Kendrick Lamar,Rap,Feliz,Media
+Not Like Us,Kendrick Lamar,Rap,Enamorado,Alta
+Euphoria,Kendrick Lamar,Rap,Relajado,Media
+Antidote,Travis Scott,Rap,Enamorado,Alta
+Goosebumps,Travis Scott,Rap,Feliz,Media
+Highest In The Room,Travis Scott,Rap,Feliz,Media
+Butterfly Effect,Travis Scott,Rap,Relajado,Alta
+FE!N,Travis Scott,Rap,Motivado,Alta
+All The Stars,Kendrick Lamar y SZA,Rap,Relajado,Media
+Robbery,Juice WRLD,Rap,Enamorado,Media
+All Girls Are The Same,Juice WRLD,Rap,Feliz,Media
+Legends,Juice WRLD,Rap,Feliz,Media
+Bandit,Juice WRLD y YoungBoy Never Broke Again,Rap,Relajado,Media
+XO Tour Llif3,Lil Uzi Vert,Rap,Feliz,Media
+Just Wanna Rock,Lil Uzi Vert,Rap,Feliz,Media
+Money Longer,Lil Uzi Vert,Rap,Triste,Media
+Bad And Boujee,Migos,Rap,Relajado,Media
+Stir Fry,Migos,Rap,Enamorado,Alta
+Walk It Talk It,Migos,Rap,Enamorado,Media
+Congratulations,Post Malone con Quavo,Rap,Motivado,Media
+Better Now,Post Malone,Rap,Enamorado,Media
+Psycho,Post Malone con Ty Dolla Sign,Rap,Motivado,Alta
+Wow.,Post Malone,Rap,Enamorado,Media
+I Fall Apart,Post Malone,Rap,Relajado,Media
+White Iverson,Post Malone,Rap,Motivado,Media
+No Role Modelz,J. Cole,Rap,Enamorado,Alta
+Middle Child,J. Cole,Rap,Feliz,Media
+A Lot,21 Savage y J. Cole,Rap,Feliz,Media
+Wonderful,J. Cole,Rap,Motivado,Alta
+Immortal,J. Cole,Rap,Relajado,Media
+m.A.A.d City,Kendrick Lamar,Rap,Relajado,Media
+Backseat Freestyle,Kendrick Lamar,Rap,Feliz,Alta
+Bank Account,21 Savage,Rap,Relajado,Alta
+Knife Talk,"Drake, 21 Savage y Project Pat",Rap,Relajado,Alta
+Broccoli,DRAM con Lil Yachty,Rap,Enamorado,Media
+Location,Khalid,Rap,Feliz,Media
+Mask Off,Future,Rap,Enamorado,Media
+Turn On The Lights,Future,Rap,Feliz,Media
+Jumpman,Drake y Future,Rap,Triste,Media
+Way 2 Sexy,"Drake, Future y Young Thug",Rap,Motivado,Media
+Best I Ever Had,Drake,Rap,Motivado,Media
+Marvins Room,Drake,Rap,Motivado,Media
+Passionfruit,Drake,Rap,Triste,Alta
+Toosie Slide,Drake,Rap,Relajado,Media
+Laugh Now Cry Later,Drake con Lil Durk,Rap,Feliz,Media
+Falling Down,Lil Peep y XXXTentacion,Rap,Motivado,Media
+Changes,XXXTentacion,Rap,Relajado,Alta
+SAD!,XXXTentacion,Rap,Motivado,Media
+Jocelyn Flores,XXXTentacion,Rap,Triste,Media
+Empire State of Mind,Jay-Z con Alicia Keys,Rap,Enamorado,Alta
+Ni**as In Paris,Jay-Z y Kanye West,Rap,Motivado,Media

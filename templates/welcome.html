@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music AI - Bienvenido</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="topbar">
+    <div class="brand">Music IA</div>
+    <div class="topbar-links">
+      <a href="{{ url_for('index') }}">Aplicación</a>
+    </div>
+  </div>
+  <div class="container">
+    <div class="welcome-card">
+      <span class="eyebrow">Sistema inteligente de recomendación</span>
+      <h1>Bienvenido a Music IA</h1>
+      <p>Descubre recomendaciones musicales inteligentes con una interfaz limpia, moderna y preparada para presentar como proyecto académico.</p>
+      <a href="{{ url_for('index') }}" class="button-primary">Empezar</a>
+    </div>
+  </div>
+</body>
+</html>
