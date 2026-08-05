@@ -40,9 +40,9 @@ ARTISTAS_SUGERIDOS = [
 ]
 ENERGIA_MAP = {"Baja": 0.0, "Media": 0.5, "Alta": 1.0}
 
-DEFAULT_SPOTIFY_CLIENT_ID = "06ec744e95424070b3b011ca36bc7abb"
-DEFAULT_SPOTIFY_CLIENT_SECRET = "9b210caf6fa94723a25b7b81fe7a6dca"
-DEFAULT_REDIRECT_URI = "http://127.0.0.1:8888/callback"
+DEFAULT_SPOTIFY_CLIENT_ID = "06189a16a906394b7bbb751a9115bf4264"
+DEFAULT_SPOTIFY_CLIENT_SECRET = "8566e159b4e24b73a2e0671335b2fc38"
+DEFAULT_REDIRECT_URI = "https://practica-4-ia-xttu.vercel.app/callback"
 
 
 def _resolve_spotify_value(env_name, default_value):
