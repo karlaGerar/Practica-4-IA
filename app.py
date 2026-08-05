@@ -15,7 +15,7 @@ app.secret_key = os.getenv("FLASK_SECRET_KEY", "music-ai-secret-key")
 
 DEFAULT_SPOTIFY_CLIENT_ID = "06ec744e95424070b3b011ca36bc7abb"
 DEFAULT_SPOTIFY_CLIENT_SECRET = "9b210caf6fa94723a25b7b81fe7a6dca"
-DEFAULT_REDIRECT_URI = "http://127.0.0.1:8888/callback"
+DEFAULT_REDIRECT_URI = "https://tu-link-de-vercel.vercel.app/callback"
 
 
 def _resolve_spotify_value(env_name, default_value):
