@@ -13,7 +13,7 @@ from recommender import ANIMOS, GENEROS, RecomendadorMusical
 app = Flask(__name__)
 app.secret_key = os.getenv("FLASK_SECRET_KEY", "music-ai-secret-key")
 
-DEFAULT_SPOTIFY_CLIENT_ID = "06ec744e95424070b3b011ca36bc7abb"
+DEFAULT_SPOTIFY_CLIENT_ID = "189a16a906394b7bbb751a9115bf4264"
 DEFAULT_SPOTIFY_CLIENT_SECRET = "8566e159b4e24b73a2e0671335b2fc38"
 DEFAULT_REDIRECT_URI = "https://practica-4-ia-jbnt.vercel.app/callback"
 
